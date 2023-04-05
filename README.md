@@ -193,6 +193,7 @@ plt.show()
 
 i) Using Averaging Filter
 ![](./2nd.png)
+
 ii) Using Weighted Averaging Filter
 ![](./3ed.png)
 
@@ -205,6 +206,7 @@ iv) Using Median Filter
 ### 2. Sharpening Filters
 i) Using Laplacian Kernal
 ![](./6th.png)
+
 ii) Using Laplacian Operator
 ![](./7th.png)
 
